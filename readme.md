@@ -1,4 +1,4 @@
-### Penguin Species Classification with Random Forests
+# Penguin Species Classification with Random Forests
 
 A concise, reproducible project that trains and evaluates a Random Forest classifier to predict the penguin species (Adélie, Chinstrap, Gentoo) from physical measurements using the Palmer Penguins dataset. The workflow is implemented in a Jupyter notebook and includes data loading, preprocessing, modeling, and evaluation with common metrics and visual diagnostics.
 
